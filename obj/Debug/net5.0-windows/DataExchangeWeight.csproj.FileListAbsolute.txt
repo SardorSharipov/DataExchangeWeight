@@ -1,0 +1,322 @@
+C:\Users\sardo\source\repos\DataExchangeWeight\bin\Debug\net5.0-windows\DataExchangeWeight.exe
+C:\Users\sardo\source\repos\DataExchangeWeight\bin\Debug\net5.0-windows\DataExchangeWeight.deps.json
+C:\Users\sardo\source\repos\DataExchangeWeight\bin\Debug\net5.0-windows\DataExchangeWeight.runtimeconfig.json
+C:\Users\sardo\source\repos\DataExchangeWeight\bin\Debug\net5.0-windows\DataExchangeWeight.runtimeconfig.dev.json
+C:\Users\sardo\source\repos\DataExchangeWeight\bin\Debug\net5.0-windows\DataExchangeWeight.dll
+C:\Users\sardo\source\repos\DataExchangeWeight\bin\Debug\net5.0-windows\ref\DataExchangeWeight.dll
+C:\Users\sardo\source\repos\DataExchangeWeight\bin\Debug\net5.0-windows\DataExchangeWeight.pdb
+C:\Users\sardo\source\repos\DataExchangeWeight\bin\Debug\net5.0-windows\EntityFrameworkCore.Jet.dll
+C:\Users\sardo\source\repos\DataExchangeWeight\bin\Debug\net5.0-windows\EntityFrameworkCore.Jet.Data.dll
+C:\Users\sardo\source\repos\DataExchangeWeight\bin\Debug\net5.0-windows\EntityFrameworkCore.Jet.OleDb.dll
+C:\Users\sardo\source\repos\DataExchangeWeight\bin\Debug\net5.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\sardo\source\repos\DataExchangeWeight\bin\Debug\net5.0-windows\Microsoft.Bcl.HashCode.dll
+C:\Users\sardo\source\repos\DataExchangeWeight\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\sardo\source\repos\DataExchangeWeight\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\sardo\source\repos\DataExchangeWeight\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\sardo\source\repos\DataExchangeWeight\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\sardo\source\repos\DataExchangeWeight\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\sardo\source\repos\DataExchangeWeight\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\sardo\source\repos\DataExchangeWeight\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\sardo\source\repos\DataExchangeWeight\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\sardo\source\repos\DataExchangeWeight\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\sardo\source\repos\DataExchangeWeight\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\sardo\source\repos\DataExchangeWeight\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\sardo\source\repos\DataExchangeWeight\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\sardo\source\repos\DataExchangeWeight\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\sardo\source\repos\DataExchangeWeight\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\sardo\source\repos\DataExchangeWeight\bin\Debug\net5.0-windows\Npgsql.dll
+C:\Users\sardo\source\repos\DataExchangeWeight\bin\Debug\net5.0-windows\System.Data.OleDb.dll
+C:\Users\sardo\source\repos\DataExchangeWeight\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\sardo\source\repos\DataExchangeWeight\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\sardo\source\repos\DataExchangeWeight\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\sardo\source\repos\DataExchangeWeight\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\sardo\source\repos\DataExchangeWeight\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Data.OleDb.dll
+C:\Users\sardo\source\repos\DataExchangeWeight\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\sardo\source\repos\DataExchangeWeight\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\sardo\source\repos\DataExchangeWeight\obj\Debug\net5.0-windows\Interop.MSDAOSP.dll
+C:\Users\sardo\source\repos\DataExchangeWeight\obj\Debug\net5.0-windows\DataExchangeWeight.csproj.ResolveComReference.cache
+C:\Users\sardo\source\repos\DataExchangeWeight\obj\Debug\net5.0-windows\ComportProject.LogForm.resources
+C:\Users\sardo\source\repos\DataExchangeWeight\obj\Debug\net5.0-windows\ComportProject.LoginForm.resources
+C:\Users\sardo\source\repos\DataExchangeWeight\obj\Debug\net5.0-windows\ComportProject.MainForm.resources
+C:\Users\sardo\source\repos\DataExchangeWeight\obj\Debug\net5.0-windows\ComportProject.SettingsForm.resources
+C:\Users\sardo\source\repos\DataExchangeWeight\obj\Debug\net5.0-windows\ComportProject.SettingsMSSql.resources
+C:\Users\sardo\source\repos\DataExchangeWeight\obj\Debug\net5.0-windows\DataExchangeWeight.csproj.GenerateResource.cache
+C:\Users\sardo\source\repos\DataExchangeWeight\obj\Debug\net5.0-windows\DataExchangeWeight.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sardo\source\repos\DataExchangeWeight\obj\Debug\net5.0-windows\DataExchangeWeight.AssemblyInfoInputs.cache
+C:\Users\sardo\source\repos\DataExchangeWeight\obj\Debug\net5.0-windows\DataExchangeWeight.AssemblyInfo.cs
+C:\Users\sardo\source\repos\DataExchangeWeight\obj\Debug\net5.0-windows\DataExchangeWeight.csproj.CoreCompileInputs.cache
+C:\Users\sardo\source\repos\DataExchangeWeight\obj\Debug\net5.0-windows\DataExchangeWeight.csproj.CopyComplete
+C:\Users\sardo\source\repos\DataExchangeWeight\obj\Debug\net5.0-windows\DataExchangeWeight.dll
+C:\Users\sardo\source\repos\DataExchangeWeight\obj\Debug\net5.0-windows\ref\DataExchangeWeight.dll
+C:\Users\sardo\source\repos\DataExchangeWeight\obj\Debug\net5.0-windows\DataExchangeWeight.pdb
+C:\Users\sardo\source\repos\DataExchangeWeight\obj\Debug\net5.0-windows\DataExchangeWeight.genruntimeconfig.cache
+C:\Users\User\Desktop\DataExchangeWeight (3)\DataExchangeWeight\bin\Debug\net5.0-windows\DataExchangeWeight.exe
+C:\Users\User\Desktop\DataExchangeWeight (3)\DataExchangeWeight\bin\Debug\net5.0-windows\DataExchangeWeight.deps.json
+C:\Users\User\Desktop\DataExchangeWeight (3)\DataExchangeWeight\bin\Debug\net5.0-windows\DataExchangeWeight.runtimeconfig.json
+C:\Users\User\Desktop\DataExchangeWeight (3)\DataExchangeWeight\bin\Debug\net5.0-windows\DataExchangeWeight.runtimeconfig.dev.json
+C:\Users\User\Desktop\DataExchangeWeight (3)\DataExchangeWeight\bin\Debug\net5.0-windows\DataExchangeWeight.dll
+C:\Users\User\Desktop\DataExchangeWeight (3)\DataExchangeWeight\bin\Debug\net5.0-windows\ref\DataExchangeWeight.dll
+C:\Users\User\Desktop\DataExchangeWeight (3)\DataExchangeWeight\bin\Debug\net5.0-windows\DataExchangeWeight.pdb
+C:\Users\User\Desktop\DataExchangeWeight (3)\DataExchangeWeight\bin\Debug\net5.0-windows\EntityFrameworkCore.Jet.dll
+C:\Users\User\Desktop\DataExchangeWeight (3)\DataExchangeWeight\bin\Debug\net5.0-windows\EntityFrameworkCore.Jet.Data.dll
+C:\Users\User\Desktop\DataExchangeWeight (3)\DataExchangeWeight\bin\Debug\net5.0-windows\EntityFrameworkCore.Jet.OleDb.dll
+C:\Users\User\Desktop\DataExchangeWeight (3)\DataExchangeWeight\bin\Debug\net5.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\Desktop\DataExchangeWeight (3)\DataExchangeWeight\bin\Debug\net5.0-windows\Microsoft.Bcl.HashCode.dll
+C:\Users\User\Desktop\DataExchangeWeight (3)\DataExchangeWeight\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\Desktop\DataExchangeWeight (3)\DataExchangeWeight\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\Desktop\DataExchangeWeight (3)\DataExchangeWeight\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\Desktop\DataExchangeWeight (3)\DataExchangeWeight\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\User\Desktop\DataExchangeWeight (3)\DataExchangeWeight\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\User\Desktop\DataExchangeWeight (3)\DataExchangeWeight\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\User\Desktop\DataExchangeWeight (3)\DataExchangeWeight\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\User\Desktop\DataExchangeWeight (3)\DataExchangeWeight\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\User\Desktop\DataExchangeWeight (3)\DataExchangeWeight\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\Desktop\DataExchangeWeight (3)\DataExchangeWeight\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\Desktop\DataExchangeWeight (3)\DataExchangeWeight\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\User\Desktop\DataExchangeWeight (3)\DataExchangeWeight\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User\Desktop\DataExchangeWeight (3)\DataExchangeWeight\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\User\Desktop\DataExchangeWeight (3)\DataExchangeWeight\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\User\Desktop\DataExchangeWeight (3)\DataExchangeWeight\bin\Debug\net5.0-windows\Npgsql.dll
+C:\Users\User\Desktop\DataExchangeWeight (3)\DataExchangeWeight\bin\Debug\net5.0-windows\System.Data.OleDb.dll
+C:\Users\User\Desktop\DataExchangeWeight (3)\DataExchangeWeight\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\User\Desktop\DataExchangeWeight (3)\DataExchangeWeight\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\User\Desktop\DataExchangeWeight (3)\DataExchangeWeight\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\User\Desktop\DataExchangeWeight (3)\DataExchangeWeight\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\User\Desktop\DataExchangeWeight (3)\DataExchangeWeight\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Data.OleDb.dll
+C:\Users\User\Desktop\DataExchangeWeight (3)\DataExchangeWeight\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\User\Desktop\DataExchangeWeight (3)\DataExchangeWeight\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\User\Desktop\DataExchangeWeight (3)\DataExchangeWeight\obj\Debug\net5.0-windows\DataExchangeWeight.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\DataExchangeWeight (3)\DataExchangeWeight\obj\Debug\net5.0-windows\Interop.MSDAOSP.dll
+C:\Users\User\Desktop\DataExchangeWeight (3)\DataExchangeWeight\obj\Debug\net5.0-windows\DataExchangeWeight.csproj.ResolveComReference.cache
+C:\Users\User\Desktop\DataExchangeWeight (3)\DataExchangeWeight\obj\Debug\net5.0-windows\ComportProject.LogForm.resources
+C:\Users\User\Desktop\DataExchangeWeight (3)\DataExchangeWeight\obj\Debug\net5.0-windows\ComportProject.LoginForm.resources
+C:\Users\User\Desktop\DataExchangeWeight (3)\DataExchangeWeight\obj\Debug\net5.0-windows\ComportProject.MainForm.resources
+C:\Users\User\Desktop\DataExchangeWeight (3)\DataExchangeWeight\obj\Debug\net5.0-windows\ComportProject.SettingsForm.resources
+C:\Users\User\Desktop\DataExchangeWeight (3)\DataExchangeWeight\obj\Debug\net5.0-windows\ComportProject.SettingsMSSql.resources
+C:\Users\User\Desktop\DataExchangeWeight (3)\DataExchangeWeight\obj\Debug\net5.0-windows\DataExchangeWeight.csproj.GenerateResource.cache
+C:\Users\User\Desktop\DataExchangeWeight (3)\DataExchangeWeight\obj\Debug\net5.0-windows\DataExchangeWeight.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\DataExchangeWeight (3)\DataExchangeWeight\obj\Debug\net5.0-windows\DataExchangeWeight.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\DataExchangeWeight (3)\DataExchangeWeight\obj\Debug\net5.0-windows\DataExchangeWeight.AssemblyInfo.cs
+C:\Users\User\Desktop\DataExchangeWeight (3)\DataExchangeWeight\obj\Debug\net5.0-windows\DataExchangeWeight.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\DataExchangeWeight (3)\DataExchangeWeight\obj\Debug\net5.0-windows\DataExchangeWeight.csproj.CopyComplete
+C:\Users\User\Desktop\DataExchangeWeight (3)\DataExchangeWeight\obj\Debug\net5.0-windows\DataExchangeWeight.dll
+C:\Users\User\Desktop\DataExchangeWeight (3)\DataExchangeWeight\obj\Debug\net5.0-windows\ref\DataExchangeWeight.dll
+C:\Users\User\Desktop\DataExchangeWeight (3)\DataExchangeWeight\obj\Debug\net5.0-windows\DataExchangeWeight.pdb
+C:\Users\User\Desktop\DataExchangeWeight (3)\DataExchangeWeight\obj\Debug\net5.0-windows\DataExchangeWeight.genruntimeconfig.cache
+C:\Users\User\Desktop\DataExchangeWeight\bin\Debug\net5.0-windows\DataExchangeWeight.exe
+C:\Users\User\Desktop\DataExchangeWeight\bin\Debug\net5.0-windows\DataExchangeWeight.deps.json
+C:\Users\User\Desktop\DataExchangeWeight\bin\Debug\net5.0-windows\DataExchangeWeight.runtimeconfig.json
+C:\Users\User\Desktop\DataExchangeWeight\bin\Debug\net5.0-windows\DataExchangeWeight.runtimeconfig.dev.json
+C:\Users\User\Desktop\DataExchangeWeight\bin\Debug\net5.0-windows\DataExchangeWeight.dll
+C:\Users\User\Desktop\DataExchangeWeight\bin\Debug\net5.0-windows\ref\DataExchangeWeight.dll
+C:\Users\User\Desktop\DataExchangeWeight\bin\Debug\net5.0-windows\DataExchangeWeight.pdb
+C:\Users\User\Desktop\DataExchangeWeight\bin\Debug\net5.0-windows\EntityFrameworkCore.Jet.dll
+C:\Users\User\Desktop\DataExchangeWeight\bin\Debug\net5.0-windows\EntityFrameworkCore.Jet.Data.dll
+C:\Users\User\Desktop\DataExchangeWeight\bin\Debug\net5.0-windows\EntityFrameworkCore.Jet.OleDb.dll
+C:\Users\User\Desktop\DataExchangeWeight\bin\Debug\net5.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\Desktop\DataExchangeWeight\bin\Debug\net5.0-windows\Microsoft.Bcl.HashCode.dll
+C:\Users\User\Desktop\DataExchangeWeight\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\Desktop\DataExchangeWeight\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\Desktop\DataExchangeWeight\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\Desktop\DataExchangeWeight\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\User\Desktop\DataExchangeWeight\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\User\Desktop\DataExchangeWeight\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\User\Desktop\DataExchangeWeight\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\User\Desktop\DataExchangeWeight\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\User\Desktop\DataExchangeWeight\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\Desktop\DataExchangeWeight\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\Desktop\DataExchangeWeight\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\User\Desktop\DataExchangeWeight\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User\Desktop\DataExchangeWeight\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\User\Desktop\DataExchangeWeight\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\User\Desktop\DataExchangeWeight\bin\Debug\net5.0-windows\Npgsql.dll
+C:\Users\User\Desktop\DataExchangeWeight\bin\Debug\net5.0-windows\System.Data.OleDb.dll
+C:\Users\User\Desktop\DataExchangeWeight\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\User\Desktop\DataExchangeWeight\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\User\Desktop\DataExchangeWeight\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\User\Desktop\DataExchangeWeight\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\User\Desktop\DataExchangeWeight\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Data.OleDb.dll
+C:\Users\User\Desktop\DataExchangeWeight\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\User\Desktop\DataExchangeWeight\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\User\Desktop\DataExchangeWeight\obj\Debug\net5.0-windows\DataExchangeWeight.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\DataExchangeWeight\obj\Debug\net5.0-windows\Interop.MSDAOSP.dll
+C:\Users\User\Desktop\DataExchangeWeight\obj\Debug\net5.0-windows\DataExchangeWeight.csproj.ResolveComReference.cache
+C:\Users\User\Desktop\DataExchangeWeight\obj\Debug\net5.0-windows\ComportProject.LogForm.resources
+C:\Users\User\Desktop\DataExchangeWeight\obj\Debug\net5.0-windows\ComportProject.LoginForm.resources
+C:\Users\User\Desktop\DataExchangeWeight\obj\Debug\net5.0-windows\ComportProject.MainForm.resources
+C:\Users\User\Desktop\DataExchangeWeight\obj\Debug\net5.0-windows\ComportProject.SettingsForm.resources
+C:\Users\User\Desktop\DataExchangeWeight\obj\Debug\net5.0-windows\ComportProject.SettingsMSSql.resources
+C:\Users\User\Desktop\DataExchangeWeight\obj\Debug\net5.0-windows\DataExchangeWeight.csproj.GenerateResource.cache
+C:\Users\User\Desktop\DataExchangeWeight\obj\Debug\net5.0-windows\DataExchangeWeight.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\DataExchangeWeight\obj\Debug\net5.0-windows\DataExchangeWeight.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\DataExchangeWeight\obj\Debug\net5.0-windows\DataExchangeWeight.AssemblyInfo.cs
+C:\Users\User\Desktop\DataExchangeWeight\obj\Debug\net5.0-windows\DataExchangeWeight.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\DataExchangeWeight\obj\Debug\net5.0-windows\DataExchangeWeight.csproj.CopyComplete
+C:\Users\User\Desktop\DataExchangeWeight\obj\Debug\net5.0-windows\DataExchangeWeight.dll
+C:\Users\User\Desktop\DataExchangeWeight\obj\Debug\net5.0-windows\ref\DataExchangeWeight.dll
+C:\Users\User\Desktop\DataExchangeWeight\obj\Debug\net5.0-windows\DataExchangeWeight.pdb
+C:\Users\User\Desktop\DataExchangeWeight\obj\Debug\net5.0-windows\DataExchangeWeight.genruntimeconfig.cache
+C:\Users\sardo\source\repos\DataExchangeWeight\obj\Debug\net5.0-windows\DataExchangeWeight.csproj.AssemblyReference.cache
+C:\Users\sardo\source\repos\NEWDataExchange\DataExchangeWeight\bin\Debug\net5.0-windows\DataExchangeWeight.exe
+C:\Users\sardo\source\repos\NEWDataExchange\DataExchangeWeight\bin\Debug\net5.0-windows\DataExchangeWeight.deps.json
+C:\Users\sardo\source\repos\NEWDataExchange\DataExchangeWeight\bin\Debug\net5.0-windows\DataExchangeWeight.runtimeconfig.json
+C:\Users\sardo\source\repos\NEWDataExchange\DataExchangeWeight\bin\Debug\net5.0-windows\DataExchangeWeight.runtimeconfig.dev.json
+C:\Users\sardo\source\repos\NEWDataExchange\DataExchangeWeight\bin\Debug\net5.0-windows\DataExchangeWeight.dll
+C:\Users\sardo\source\repos\NEWDataExchange\DataExchangeWeight\bin\Debug\net5.0-windows\ref\DataExchangeWeight.dll
+C:\Users\sardo\source\repos\NEWDataExchange\DataExchangeWeight\bin\Debug\net5.0-windows\DataExchangeWeight.pdb
+C:\Users\sardo\source\repos\NEWDataExchange\DataExchangeWeight\bin\Debug\net5.0-windows\EntityFrameworkCore.Jet.dll
+C:\Users\sardo\source\repos\NEWDataExchange\DataExchangeWeight\bin\Debug\net5.0-windows\EntityFrameworkCore.Jet.Data.dll
+C:\Users\sardo\source\repos\NEWDataExchange\DataExchangeWeight\bin\Debug\net5.0-windows\EntityFrameworkCore.Jet.OleDb.dll
+C:\Users\sardo\source\repos\NEWDataExchange\DataExchangeWeight\bin\Debug\net5.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\sardo\source\repos\NEWDataExchange\DataExchangeWeight\bin\Debug\net5.0-windows\Microsoft.Bcl.HashCode.dll
+C:\Users\sardo\source\repos\NEWDataExchange\DataExchangeWeight\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\sardo\source\repos\NEWDataExchange\DataExchangeWeight\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\sardo\source\repos\NEWDataExchange\DataExchangeWeight\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\sardo\source\repos\NEWDataExchange\DataExchangeWeight\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\sardo\source\repos\NEWDataExchange\DataExchangeWeight\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\sardo\source\repos\NEWDataExchange\DataExchangeWeight\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\sardo\source\repos\NEWDataExchange\DataExchangeWeight\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\sardo\source\repos\NEWDataExchange\DataExchangeWeight\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\sardo\source\repos\NEWDataExchange\DataExchangeWeight\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\sardo\source\repos\NEWDataExchange\DataExchangeWeight\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\sardo\source\repos\NEWDataExchange\DataExchangeWeight\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\sardo\source\repos\NEWDataExchange\DataExchangeWeight\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\sardo\source\repos\NEWDataExchange\DataExchangeWeight\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\sardo\source\repos\NEWDataExchange\DataExchangeWeight\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\sardo\source\repos\NEWDataExchange\DataExchangeWeight\bin\Debug\net5.0-windows\Npgsql.dll
+C:\Users\sardo\source\repos\NEWDataExchange\DataExchangeWeight\bin\Debug\net5.0-windows\System.Data.OleDb.dll
+C:\Users\sardo\source\repos\NEWDataExchange\DataExchangeWeight\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\sardo\source\repos\NEWDataExchange\DataExchangeWeight\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\sardo\source\repos\NEWDataExchange\DataExchangeWeight\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\sardo\source\repos\NEWDataExchange\DataExchangeWeight\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\sardo\source\repos\NEWDataExchange\DataExchangeWeight\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Data.OleDb.dll
+C:\Users\sardo\source\repos\NEWDataExchange\DataExchangeWeight\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\sardo\source\repos\NEWDataExchange\DataExchangeWeight\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\sardo\source\repos\NEWDataExchange\DataExchangeWeight\obj\Debug\net5.0-windows\Interop.MSDAOSP.dll
+C:\Users\sardo\source\repos\NEWDataExchange\DataExchangeWeight\obj\Debug\net5.0-windows\DataExchangeWeight.csproj.ResolveComReference.cache
+C:\Users\sardo\source\repos\NEWDataExchange\DataExchangeWeight\obj\Debug\net5.0-windows\ComportProject.LogForm.resources
+C:\Users\sardo\source\repos\NEWDataExchange\DataExchangeWeight\obj\Debug\net5.0-windows\ComportProject.LoginForm.resources
+C:\Users\sardo\source\repos\NEWDataExchange\DataExchangeWeight\obj\Debug\net5.0-windows\ComportProject.MainForm.resources
+C:\Users\sardo\source\repos\NEWDataExchange\DataExchangeWeight\obj\Debug\net5.0-windows\ComportProject.SettingsForm.resources
+C:\Users\sardo\source\repos\NEWDataExchange\DataExchangeWeight\obj\Debug\net5.0-windows\ComportProject.SettingsMSSql.resources
+C:\Users\sardo\source\repos\NEWDataExchange\DataExchangeWeight\obj\Debug\net5.0-windows\DataExchangeWeight.csproj.GenerateResource.cache
+C:\Users\sardo\source\repos\NEWDataExchange\DataExchangeWeight\obj\Debug\net5.0-windows\DataExchangeWeight.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sardo\source\repos\NEWDataExchange\DataExchangeWeight\obj\Debug\net5.0-windows\DataExchangeWeight.AssemblyInfoInputs.cache
+C:\Users\sardo\source\repos\NEWDataExchange\DataExchangeWeight\obj\Debug\net5.0-windows\DataExchangeWeight.AssemblyInfo.cs
+C:\Users\sardo\source\repos\NEWDataExchange\DataExchangeWeight\obj\Debug\net5.0-windows\DataExchangeWeight.csproj.CoreCompileInputs.cache
+C:\Users\sardo\source\repos\NEWDataExchange\DataExchangeWeight\obj\Debug\net5.0-windows\DataExchangeWeight.csproj.CopyComplete
+C:\Users\sardo\source\repos\NEWDataExchange\DataExchangeWeight\obj\Debug\net5.0-windows\DataExchangeWeight.dll
+C:\Users\sardo\source\repos\NEWDataExchange\DataExchangeWeight\obj\Debug\net5.0-windows\ref\DataExchangeWeight.dll
+C:\Users\sardo\source\repos\NEWDataExchange\DataExchangeWeight\obj\Debug\net5.0-windows\DataExchangeWeight.pdb
+C:\Users\sardo\source\repos\NEWDataExchange\DataExchangeWeight\obj\Debug\net5.0-windows\DataExchangeWeight.genruntimeconfig.cache
+C:\Users\sardo\source\repos\DadsProjects\NEWDataExchange\DataExchangeWeight\bin\Debug\net5.0-windows\DataExchangeWeight.exe
+C:\Users\sardo\source\repos\DadsProjects\NEWDataExchange\DataExchangeWeight\bin\Debug\net5.0-windows\DataExchangeWeight.deps.json
+C:\Users\sardo\source\repos\DadsProjects\NEWDataExchange\DataExchangeWeight\bin\Debug\net5.0-windows\DataExchangeWeight.runtimeconfig.json
+C:\Users\sardo\source\repos\DadsProjects\NEWDataExchange\DataExchangeWeight\bin\Debug\net5.0-windows\DataExchangeWeight.runtimeconfig.dev.json
+C:\Users\sardo\source\repos\DadsProjects\NEWDataExchange\DataExchangeWeight\bin\Debug\net5.0-windows\DataExchangeWeight.dll
+C:\Users\sardo\source\repos\DadsProjects\NEWDataExchange\DataExchangeWeight\bin\Debug\net5.0-windows\ref\DataExchangeWeight.dll
+C:\Users\sardo\source\repos\DadsProjects\NEWDataExchange\DataExchangeWeight\bin\Debug\net5.0-windows\DataExchangeWeight.pdb
+C:\Users\sardo\source\repos\DadsProjects\NEWDataExchange\DataExchangeWeight\bin\Debug\net5.0-windows\EntityFrameworkCore.Jet.dll
+C:\Users\sardo\source\repos\DadsProjects\NEWDataExchange\DataExchangeWeight\bin\Debug\net5.0-windows\EntityFrameworkCore.Jet.Data.dll
+C:\Users\sardo\source\repos\DadsProjects\NEWDataExchange\DataExchangeWeight\bin\Debug\net5.0-windows\EntityFrameworkCore.Jet.OleDb.dll
+C:\Users\sardo\source\repos\DadsProjects\NEWDataExchange\DataExchangeWeight\bin\Debug\net5.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\sardo\source\repos\DadsProjects\NEWDataExchange\DataExchangeWeight\bin\Debug\net5.0-windows\Microsoft.Bcl.HashCode.dll
+C:\Users\sardo\source\repos\DadsProjects\NEWDataExchange\DataExchangeWeight\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\sardo\source\repos\DadsProjects\NEWDataExchange\DataExchangeWeight\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\sardo\source\repos\DadsProjects\NEWDataExchange\DataExchangeWeight\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\sardo\source\repos\DadsProjects\NEWDataExchange\DataExchangeWeight\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\sardo\source\repos\DadsProjects\NEWDataExchange\DataExchangeWeight\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\sardo\source\repos\DadsProjects\NEWDataExchange\DataExchangeWeight\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\sardo\source\repos\DadsProjects\NEWDataExchange\DataExchangeWeight\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\sardo\source\repos\DadsProjects\NEWDataExchange\DataExchangeWeight\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\sardo\source\repos\DadsProjects\NEWDataExchange\DataExchangeWeight\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\sardo\source\repos\DadsProjects\NEWDataExchange\DataExchangeWeight\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\sardo\source\repos\DadsProjects\NEWDataExchange\DataExchangeWeight\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\sardo\source\repos\DadsProjects\NEWDataExchange\DataExchangeWeight\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\sardo\source\repos\DadsProjects\NEWDataExchange\DataExchangeWeight\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\sardo\source\repos\DadsProjects\NEWDataExchange\DataExchangeWeight\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\sardo\source\repos\DadsProjects\NEWDataExchange\DataExchangeWeight\bin\Debug\net5.0-windows\Npgsql.dll
+C:\Users\sardo\source\repos\DadsProjects\NEWDataExchange\DataExchangeWeight\bin\Debug\net5.0-windows\System.Data.OleDb.dll
+C:\Users\sardo\source\repos\DadsProjects\NEWDataExchange\DataExchangeWeight\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\sardo\source\repos\DadsProjects\NEWDataExchange\DataExchangeWeight\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\sardo\source\repos\DadsProjects\NEWDataExchange\DataExchangeWeight\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\sardo\source\repos\DadsProjects\NEWDataExchange\DataExchangeWeight\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\sardo\source\repos\DadsProjects\NEWDataExchange\DataExchangeWeight\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Data.OleDb.dll
+C:\Users\sardo\source\repos\DadsProjects\NEWDataExchange\DataExchangeWeight\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\sardo\source\repos\DadsProjects\NEWDataExchange\DataExchangeWeight\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\sardo\source\repos\DadsProjects\NEWDataExchange\DataExchangeWeight\obj\Debug\net5.0-windows\Interop.MSDAOSP.dll
+C:\Users\sardo\source\repos\DadsProjects\NEWDataExchange\DataExchangeWeight\obj\Debug\net5.0-windows\DataExchangeWeight.csproj.ResolveComReference.cache
+C:\Users\sardo\source\repos\DadsProjects\NEWDataExchange\DataExchangeWeight\obj\Debug\net5.0-windows\ComportProject.LogForm.resources
+C:\Users\sardo\source\repos\DadsProjects\NEWDataExchange\DataExchangeWeight\obj\Debug\net5.0-windows\ComportProject.LoginForm.resources
+C:\Users\sardo\source\repos\DadsProjects\NEWDataExchange\DataExchangeWeight\obj\Debug\net5.0-windows\ComportProject.MainForm.resources
+C:\Users\sardo\source\repos\DadsProjects\NEWDataExchange\DataExchangeWeight\obj\Debug\net5.0-windows\ComportProject.SettingsForm.resources
+C:\Users\sardo\source\repos\DadsProjects\NEWDataExchange\DataExchangeWeight\obj\Debug\net5.0-windows\ComportProject.SettingsMSSql.resources
+C:\Users\sardo\source\repos\DadsProjects\NEWDataExchange\DataExchangeWeight\obj\Debug\net5.0-windows\DataExchangeWeight.csproj.GenerateResource.cache
+C:\Users\sardo\source\repos\DadsProjects\NEWDataExchange\DataExchangeWeight\obj\Debug\net5.0-windows\DataExchangeWeight.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sardo\source\repos\DadsProjects\NEWDataExchange\DataExchangeWeight\obj\Debug\net5.0-windows\DataExchangeWeight.AssemblyInfoInputs.cache
+C:\Users\sardo\source\repos\DadsProjects\NEWDataExchange\DataExchangeWeight\obj\Debug\net5.0-windows\DataExchangeWeight.AssemblyInfo.cs
+C:\Users\sardo\source\repos\DadsProjects\NEWDataExchange\DataExchangeWeight\obj\Debug\net5.0-windows\DataExchangeWeight.csproj.CoreCompileInputs.cache
+C:\Users\sardo\source\repos\DadsProjects\NEWDataExchange\DataExchangeWeight\obj\Debug\net5.0-windows\DataExchangeWeight.csproj.CopyComplete
+C:\Users\sardo\source\repos\DadsProjects\NEWDataExchange\DataExchangeWeight\obj\Debug\net5.0-windows\DataExchangeWeight.dll
+C:\Users\sardo\source\repos\DadsProjects\NEWDataExchange\DataExchangeWeight\obj\Debug\net5.0-windows\ref\DataExchangeWeight.dll
+C:\Users\sardo\source\repos\DadsProjects\NEWDataExchange\DataExchangeWeight\obj\Debug\net5.0-windows\DataExchangeWeight.pdb
+C:\Users\sardo\source\repos\DadsProjects\NEWDataExchange\DataExchangeWeight\obj\Debug\net5.0-windows\DataExchangeWeight.genruntimeconfig.cache
+C:\Users\sardo\source\repos\DadsProjects\NEWDataExchange\DataExchangeWeight\obj\Debug\net5.0-windows\DataExchangeWeight.csproj.AssemblyReference.cache
+C:\Users\sardo\source\repos\DadsProjects\DataExchange2022\DataExchangeWeight\bin\Debug\net5.0-windows\DataExchangeWeight.exe
+C:\Users\sardo\source\repos\DadsProjects\DataExchange2022\DataExchangeWeight\bin\Debug\net5.0-windows\DataExchangeWeight.deps.json
+C:\Users\sardo\source\repos\DadsProjects\DataExchange2022\DataExchangeWeight\bin\Debug\net5.0-windows\DataExchangeWeight.runtimeconfig.json
+C:\Users\sardo\source\repos\DadsProjects\DataExchange2022\DataExchangeWeight\bin\Debug\net5.0-windows\DataExchangeWeight.runtimeconfig.dev.json
+C:\Users\sardo\source\repos\DadsProjects\DataExchange2022\DataExchangeWeight\bin\Debug\net5.0-windows\DataExchangeWeight.dll
+C:\Users\sardo\source\repos\DadsProjects\DataExchange2022\DataExchangeWeight\bin\Debug\net5.0-windows\ref\DataExchangeWeight.dll
+C:\Users\sardo\source\repos\DadsProjects\DataExchange2022\DataExchangeWeight\bin\Debug\net5.0-windows\DataExchangeWeight.pdb
+C:\Users\sardo\source\repos\DadsProjects\DataExchange2022\DataExchangeWeight\bin\Debug\net5.0-windows\EntityFrameworkCore.Jet.dll
+C:\Users\sardo\source\repos\DadsProjects\DataExchange2022\DataExchangeWeight\bin\Debug\net5.0-windows\EntityFrameworkCore.Jet.Data.dll
+C:\Users\sardo\source\repos\DadsProjects\DataExchange2022\DataExchangeWeight\bin\Debug\net5.0-windows\EntityFrameworkCore.Jet.OleDb.dll
+C:\Users\sardo\source\repos\DadsProjects\DataExchange2022\DataExchangeWeight\bin\Debug\net5.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\sardo\source\repos\DadsProjects\DataExchange2022\DataExchangeWeight\bin\Debug\net5.0-windows\Microsoft.Bcl.HashCode.dll
+C:\Users\sardo\source\repos\DadsProjects\DataExchange2022\DataExchangeWeight\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\sardo\source\repos\DadsProjects\DataExchange2022\DataExchangeWeight\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\sardo\source\repos\DadsProjects\DataExchange2022\DataExchangeWeight\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\sardo\source\repos\DadsProjects\DataExchange2022\DataExchangeWeight\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\sardo\source\repos\DadsProjects\DataExchange2022\DataExchangeWeight\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\sardo\source\repos\DadsProjects\DataExchange2022\DataExchangeWeight\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\sardo\source\repos\DadsProjects\DataExchange2022\DataExchangeWeight\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\sardo\source\repos\DadsProjects\DataExchange2022\DataExchangeWeight\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\sardo\source\repos\DadsProjects\DataExchange2022\DataExchangeWeight\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\sardo\source\repos\DadsProjects\DataExchange2022\DataExchangeWeight\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\sardo\source\repos\DadsProjects\DataExchange2022\DataExchangeWeight\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\sardo\source\repos\DadsProjects\DataExchange2022\DataExchangeWeight\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\sardo\source\repos\DadsProjects\DataExchange2022\DataExchangeWeight\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\sardo\source\repos\DadsProjects\DataExchange2022\DataExchangeWeight\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\sardo\source\repos\DadsProjects\DataExchange2022\DataExchangeWeight\bin\Debug\net5.0-windows\Npgsql.dll
+C:\Users\sardo\source\repos\DadsProjects\DataExchange2022\DataExchangeWeight\bin\Debug\net5.0-windows\System.Data.OleDb.dll
+C:\Users\sardo\source\repos\DadsProjects\DataExchange2022\DataExchangeWeight\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\sardo\source\repos\DadsProjects\DataExchange2022\DataExchangeWeight\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\sardo\source\repos\DadsProjects\DataExchange2022\DataExchangeWeight\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\sardo\source\repos\DadsProjects\DataExchange2022\DataExchangeWeight\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\sardo\source\repos\DadsProjects\DataExchange2022\DataExchangeWeight\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Data.OleDb.dll
+C:\Users\sardo\source\repos\DadsProjects\DataExchange2022\DataExchangeWeight\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\sardo\source\repos\DadsProjects\DataExchange2022\DataExchangeWeight\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\sardo\source\repos\DadsProjects\DataExchange2022\DataExchangeWeight\obj\Debug\net5.0-windows\Interop.MSDAOSP.dll
+C:\Users\sardo\source\repos\DadsProjects\DataExchange2022\DataExchangeWeight\obj\Debug\net5.0-windows\DataExchangeWeight.csproj.ResolveComReference.cache
+C:\Users\sardo\source\repos\DadsProjects\DataExchange2022\DataExchangeWeight\obj\Debug\net5.0-windows\ComportProject.LogForm.resources
+C:\Users\sardo\source\repos\DadsProjects\DataExchange2022\DataExchangeWeight\obj\Debug\net5.0-windows\ComportProject.LoginForm.resources
+C:\Users\sardo\source\repos\DadsProjects\DataExchange2022\DataExchangeWeight\obj\Debug\net5.0-windows\ComportProject.MainForm.resources
+C:\Users\sardo\source\repos\DadsProjects\DataExchange2022\DataExchangeWeight\obj\Debug\net5.0-windows\ComportProject.SettingsForm.resources
+C:\Users\sardo\source\repos\DadsProjects\DataExchange2022\DataExchangeWeight\obj\Debug\net5.0-windows\ComportProject.SettingsMSSql.resources
+C:\Users\sardo\source\repos\DadsProjects\DataExchange2022\DataExchangeWeight\obj\Debug\net5.0-windows\DataExchangeWeight.csproj.GenerateResource.cache
+C:\Users\sardo\source\repos\DadsProjects\DataExchange2022\DataExchangeWeight\obj\Debug\net5.0-windows\DataExchangeWeight.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sardo\source\repos\DadsProjects\DataExchange2022\DataExchangeWeight\obj\Debug\net5.0-windows\DataExchangeWeight.AssemblyInfoInputs.cache
+C:\Users\sardo\source\repos\DadsProjects\DataExchange2022\DataExchangeWeight\obj\Debug\net5.0-windows\DataExchangeWeight.AssemblyInfo.cs
+C:\Users\sardo\source\repos\DadsProjects\DataExchange2022\DataExchangeWeight\obj\Debug\net5.0-windows\DataExchangeWeight.csproj.CoreCompileInputs.cache
+C:\Users\sardo\source\repos\DadsProjects\DataExchange2022\DataExchangeWeight\obj\Debug\net5.0-windows\DataExchangeWeight.csproj.CopyComplete
+C:\Users\sardo\source\repos\DadsProjects\DataExchange2022\DataExchangeWeight\obj\Debug\net5.0-windows\DataExchangeWeight.dll
+C:\Users\sardo\source\repos\DadsProjects\DataExchange2022\DataExchangeWeight\obj\Debug\net5.0-windows\ref\DataExchangeWeight.dll
+C:\Users\sardo\source\repos\DadsProjects\DataExchange2022\DataExchangeWeight\obj\Debug\net5.0-windows\DataExchangeWeight.pdb
+C:\Users\sardo\source\repos\DadsProjects\DataExchange2022\DataExchangeWeight\obj\Debug\net5.0-windows\DataExchangeWeight.genruntimeconfig.cache
+C:\Users\sardo\source\repos\DadsProjects\DataExchange2022\DataExchangeWeight\bin\Debug\net5.0-windows\System.Data.SQLite.dll
+C:\Users\sardo\source\repos\DadsProjects\DataExchange2022\DataExchangeWeight\bin\Debug\net5.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\sardo\source\repos\DadsProjects\DataExchange2022\DataExchangeWeight\bin\Debug\net5.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\sardo\source\repos\DadsProjects\DataExchange2022\DataExchangeWeight\bin\Debug\net5.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\sardo\source\repos\DadsProjects\DataExchange2022\DataExchangeWeight\bin\Debug\net5.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\sardo\source\repos\DadsProjects\DataExchange2022\DataExchangeWeight\obj\Debug\net5.0-windows\DataExchangeWeight.csproj.AssemblyReference.cache
